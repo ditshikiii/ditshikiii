@@ -3,6 +3,10 @@
 
 - 🔭 I’m currently Study on **Telkom University**
 
+- 🌱 I’m currently learning **UI / UX, Database, and Frameworks**
+
+- 📫 How to reach me **auzanfaturrochman@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/auzan aditya faturrochman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="auzan aditya faturrochman" height="30" width="40" /></a>
